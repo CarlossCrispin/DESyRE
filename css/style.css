@@ -1,0 +1,35 @@
+/* Color Theme Swatches in Hex */
+.color-1 { color: #1E254B; }
+.color-2 { color: #4B2F65; }
+.color-3 { color: #82346A; }
+.color-4 { color: #BD3B70; }
+.color-5 { color: #EF4275; }
+
+/* Color Theme Swatches in RGBA */
+.fondo-1 { background-color: rgba(30, 37, 75, 1); }
+.fondo-2 { background-color: rgba(75, 47, 101, 1); }
+.fondo-3 { background-color: rgba(130, 52, 106, 1); }
+.fondo-4 { background-color: rgba(189, 59, 112, 1); }
+.fondo-5 { background-color: rgba(239, 66, 117, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Portada-1-hsla { color: hsla(230, 42, 20, 1); }
+.Portada-2-hsla { color: hsla(271, 36, 29, 1); }
+.Portada-3-hsla { color: hsla(318, 42, 35, 1); }
+.Portada-4-hsla { color: hsla(335, 52, 48, 1); }
+.Portada-5-hsla { color: hsla(342, 84, 59, 1); }
+
+body{
+    background-color: rgba(189, 59, 112, 1);
+    color: white;
+}
+
+.fondo{
+    background-image: url(https://images.pexels.com/photos/4838598/pexels-photo-4838598.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    height: 100vh;
+    background-attachment: fixed;
+}
+main{
+    height: 100vh;
+}
+
